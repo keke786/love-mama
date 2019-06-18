@@ -19,7 +19,7 @@ update [table] set ... where ...
 
 select .. from [table] where ... 
 
-
+wo lajksdl;fjaskljdf kljl;kj akl;jsdl;k l;kasj d
 
 练习:
 
